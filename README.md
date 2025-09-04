@@ -8,7 +8,7 @@ A SwiftUI app that helps users discover and donate to local fundraisers. Users c
 ## 📱 Screens & Demo
 
 <p align="center">
-  <img src="screenshots/home.png" width="200"/>
+  <img src="Simulator Screenshot - iPhone 16 Pro - 2025-09-04 at 12.46.03.png" width="200"/>
   <img src="screenshots/browse.png" width="200"/>
   <img src="screenshots/donate.png" width="200"/>
 </p>
