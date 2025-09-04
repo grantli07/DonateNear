@@ -12,6 +12,9 @@ A SwiftUI app that helps users discover and donate to local fundraisers. Users c
   <img src="images-screens/screenshot_2.png" width="200"/>
   <img src="images-screens/screenshot_3.png" width="200"/>
   <img src="images-screens/screenshot_4.png" width="200"/>
+  <img src="images-screens/screenshot_5.png" width="200"/>
+  <img src="images-screens/screenshot_6.png" width="200"/>
+  <img src="images-screens/screenshot_7.png" width="200"/>
 </p>
 
 **Walkthrough:**  
