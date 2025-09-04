@@ -59,7 +59,7 @@ A SwiftUI app that helps users discover and donate to local fundraisers. Users c
 ## 🚀 Setup
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/donatenear.git
+   git clone https://github.com/grantli07/DonateNear.git
    ```
 2. Open DonateNear.xcodeproj in Xcode.
 3. Build and run on a simulator or physical device (iOS 17+).
