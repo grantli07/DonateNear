@@ -83,5 +83,5 @@ A SwiftUI app that helps users discover and donate to local fundraisers. Users c
 **License:** MIT  
 
 **Author:** Grant Li  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-- Email: gli412@gatech.edu 
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 📧 gli412@gatech.edu 
